@@ -1,6 +1,9 @@
 ## Desitions.
 This document is intended to record the decisions made and their justification
 
+### [1-10-2024] Learning
+Available license list can be found at https://spdx.org/licenses/
+
 ### [1-5-2024] Testing
 I follow the guide to test the app according to https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/
 

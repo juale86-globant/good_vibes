@@ -1,6 +1,7 @@
 # Changelog
 
 ### [0.0.2] - 1-1-2024
+- Added file tsconfig.json
 
 #### Added:
 - Github Actions
